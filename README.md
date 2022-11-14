@@ -1,4 +1,6 @@
-# SuperMarioBros---RL
+# SuperMarioBros---RL at William Blair!  
+
+![](https://www.williamblair.com/-/media/williamblairwebsite/project/logos/default-william-blair-logo.svg)
 
 # OUR AIM - TRAINING SUPER MARIO !
 
