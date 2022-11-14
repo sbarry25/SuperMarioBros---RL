@@ -1,4 +1,7 @@
-# SuperMarioBros---Reinforcement Learning (RL) at William Blair with iMentor!  
+# Reinforcement Learning (RL) at William Blair with iMentor!  
+# SuperMarioBros
+
+If you can train a computer model to play a video game, you can train a model to drive a car automously or even automatically trade an investment account.
 
  ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrn8kARfzWOySc97OsBa4v_dncfeNxB3GCcZA9Ufssdy7PP1--9FM8W8tMVdyLMt3k3Y&usqp=CAU)  ![](https://github.com/sbarry25/SuperMarioBros---RL/blob/main/WB%20logo.jpeg) ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrn8kARfzWOySc97OsBa4v_dncfeNxB3GCcZA9Ufssdy7PP1--9FM8W8tMVdyLMt3k3Y&usqp=CAU)
 
